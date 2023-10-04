@@ -1,0 +1,8 @@
+#Tomcat publish data
+#Tue Sep 05 23:33:20 IST 2023
+org.eclipse.jst.jee.server\:SpringMVCApp=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\SpringMVCApp
+org.eclipse.jst.jee.server\:SpringMVCApp2=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\SpringMVCApp2
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\5.1.1.RELEASE\\spring-web-5.1.1.RELEASE.jar=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\SpringMVCApp4\\WEB-INF\\lib\\spring-web-5.1.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\4.3.9.RELEASE\\spring-web-4.3.9.RELEASE.jar=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\Layer3Architecture_CaseStudy\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:SpringMVCApp4=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\SpringMVCApp4
+org.eclipse.jst.jee.server\:Layer3Architecture_CaseStudy=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\Layer3Architecture_CaseStudy
